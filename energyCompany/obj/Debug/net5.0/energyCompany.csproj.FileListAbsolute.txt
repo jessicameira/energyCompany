@@ -1,0 +1,16 @@
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\bin\Debug\net5.0\energyCompany.exe
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\bin\Debug\net5.0\energyCompany.deps.json
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\bin\Debug\net5.0\energyCompany.runtimeconfig.json
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\bin\Debug\net5.0\energyCompany.runtimeconfig.dev.json
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\bin\Debug\net5.0\energyCompany.dll
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\bin\Debug\net5.0\ref\energyCompany.dll
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\bin\Debug\net5.0\energyCompany.pdb
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\obj\Debug\net5.0\energyCompany.csproj.AssemblyReference.cache
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\obj\Debug\net5.0\energyCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\obj\Debug\net5.0\energyCompany.AssemblyInfoInputs.cache
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\obj\Debug\net5.0\energyCompany.AssemblyInfo.cs
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\obj\Debug\net5.0\energyCompany.csproj.CoreCompileInputs.cache
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\obj\Debug\net5.0\energyCompany.dll
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\obj\Debug\net5.0\ref\energyCompany.dll
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\obj\Debug\net5.0\energyCompany.pdb
+C:\Users\Jeh\Documents\landis\teste\energyCompany\energyCompany\obj\Debug\net5.0\energyCompany.genruntimeconfig.cache
